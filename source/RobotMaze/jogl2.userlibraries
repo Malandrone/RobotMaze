@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<eclipse-userlibraries version="2">
-    <library name="jogl2" systemlibrary="false">
-        <archive javadoc="file:/C:/Program%20Files/Java/JOGL2/javadoc/" nativelibpaths="C:/Program Files/Java/JOGL2/lib" path="C:/Program Files/Java/JOGL2/jar/gluegen-rt.jar" source="C:/Program Files/Java/JOGL2/gluegen-java-src.zip"/>
-        <archive javadoc="file:/C:/Program%20Files/Java/JOGL2/javadoc/" nativelibpaths="C:/Program Files/Java/JOGL2/lib" path="C:/Program Files/Java/JOGL2/jar/jogl-all.jar" source="C:/Program Files/Java/JOGL2/jogl-java-src.zip"/>
-    </library>
-</eclipse-userlibraries>
